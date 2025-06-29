@@ -24,13 +24,13 @@ const Home = () => (
             </div>
             
             <div className="home-socials">
-                <a href="#" target="_blank" rel="noreferrer" aria-label="GitHub" title="GitHub" className="social-link">
+                <a href="https://github.com/DevalacheruvuManasa" target="_blank" rel="noreferrer" aria-label="GitHub" title="GitHub" className="social-link">
                     <Github size={20} />
                 </a>
-                <a href="#" target="_blank" rel="noreferrer" aria-label="LinkedIn" title="LinkedIn" className="social-link">
+                <a href="https://www.linkedin.com/in/manasa-devalacheruvu-38462a304/" target="_blank" rel="noreferrer" aria-label="LinkedIn" title="LinkedIn" className="social-link">
                     <Linkedin size={20} />
                 </a>
-                <a href="#" target="_blank" rel="noreferrer" aria-label="LeetCode" title="LeetCode" className="social-link">
+                <a href="https://leetcode.com/u/Devalacheruvu_lakshmimanasa/" target="_blank" rel="noreferrer" aria-label="LeetCode" title="LeetCode" className="social-link">
                     <ExternalLink size={20} />
                 </a>
             </div>
