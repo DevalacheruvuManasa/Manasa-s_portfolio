@@ -15,7 +15,7 @@ const Home = () => (
             <p className="home-subtitle-description">Aspiring Full Stack Developer | B.Tech CSE @ RGUKT Cuddapah</p>
 
             <div className="home-buttons">
-                <a href="/resume.pdf" download className="btn btn-primary">
+                <a href="https://drive.google.com/file/d/1_r0jSx44IEx3z2hDSsuQ1Gc2NbYN22t0/view" download className="btn btn-primary">
                     <Download size={18} /> Download Resume
                 </a>
                 <a href="#contact" className="btn btn-secondary">
