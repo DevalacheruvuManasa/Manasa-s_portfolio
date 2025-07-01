@@ -60,7 +60,7 @@ const Footer = () => (
                     I'm currently seeking full-time opportunities and exciting projects. Let's build something incredible together!
                 </p>
                 <div className="footer-buttons">
-                    <a href="https://drive.google.com/file/d/1_r0jSx44IEx3z2hDSsuQ1Gc2NbYN22t0/view" download className="btn btn-light">
+                    <a href="https://drive.google.com/file/d/1GWDFzm8gLXuQ_IkNr0KYkhomHlKVdRF7/view" download className="btn btn-light">
                         <Download size={18} /> Download Resume
                     </a>
                     <a href="mailto:devalacheruvumanasa@gmail.com" className="btn btn-transparent">
